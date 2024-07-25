@@ -1,0 +1,16 @@
+{
+   "baseURL": "https://www.elazhari.ma/",
+   "languageCode": "en-us",
+   "theme": "PaperMod",
+   "title": "Anas El Azhari - Blog",
+   "params": {
+        "homeInfoParams": {
+             "Title": "Hi there wave",
+            "Content": "Welcome to the machine!"
+        },
+        "socialIcons": [
+            {"name": "twitter", "url": "https://x.com/anelazhari"},
+            {"name": "linkedin", "url": "https://www.linkedin.com/in/elazhari/"}
+        ]
+   }
+}
